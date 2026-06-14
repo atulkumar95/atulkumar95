@@ -23,7 +23,7 @@ Ph.D., **NIT Kurukshetra** — *Design of Chaotic Maps for Image Encryption*.
 **13 peer-reviewed publications** (9 SCI/Scopus journals · 3 conference papers · 1 book chapter), mostly first-author —
 chaos-based image/audio encryption, digital signatures, and RFID/IoT authentication (ECC).
 
-- 🎓 [Google Scholar]({{SCHOLAR_URL}}) · 🆔 [ORCID 0000-0002-6895-0104](https://orcid.org/0000-0002-6895-0104)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=a5VC4I4AAAAJ&hl=en) · 🆔 [ORCID 0000-0002-6895-0104](https://orcid.org/0000-0002-6895-0104)
 - *Research implementations live in private repositories — happy to walk through them or share on request.*
 
 ### 🛠️ Tech I work with
